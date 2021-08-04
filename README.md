@@ -1,6 +1,6 @@
-<h1 align="center"><b> ❤️❤️  EZILAX  ❤️❤️</b></h1>
+<h1 align="center"><b> ❤️❤️  EZILAXBot V.2 ❤️❤️</b></h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/The-Ezila)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/EzilaXBot-V.2)
 <p align="center"><a href="https://t.me/Ezila_Updates"><img src="https://telegra.ph/file/cbe204c499de7326250f1.jpg" width="400"></a></p>
 <p align="center">
 > ⭐️ Thanks to everyone who starred Ezila, That is the greatest pleasure we have !
