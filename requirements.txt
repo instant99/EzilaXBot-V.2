@@ -59,4 +59,4 @@ aiofiles
 requests
 wget
 youtube_search
-PIL
+
